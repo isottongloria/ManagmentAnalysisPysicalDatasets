@@ -1,0 +1,2 @@
+Initialization	K	Init_cost	Final_cost
+Random	50	760350.8922311154	15934.591088841926

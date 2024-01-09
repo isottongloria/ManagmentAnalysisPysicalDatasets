@@ -1,0 +1,2 @@
+Initialization	K	l	Init_cost	Final_cost	Time
+Parallel	50	12	2.365881922235757e+19	2.3159392350648254e+19	5768.317464351654
